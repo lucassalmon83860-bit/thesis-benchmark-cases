@@ -22,8 +22,8 @@ The repository currently includes:
 
 | Name | Description | Features |
 |-----|-------------|----------|
-| Notched plate – tension–compression | Three cycles of tensile–compressive loading on a notched plate | Crack opening/closure and partial stiffness recovery |
-| Notched plate – shear | Three cycles of shear loading on a notched plate | Crack opening/closure and partial stiffness recovery |
+| Notched plate (tension–compression) | Three cycles of tensile–compressive loading on a notched plate | Crack opening/closure and partial stiffness recovery |
+| Notched plate (shear) | Three cycles of shear loading on a notched plate | Crack opening/closure and partial stiffness recovery |
 | Fuel pellet quarter | Representative irradiation cycle on a quarter of a nuclear fuel pellet | Crack initiation, propagation, and healing under thermo-mechanical conditions |
 
 
