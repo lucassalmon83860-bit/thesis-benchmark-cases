@@ -6,7 +6,7 @@
 
 This repository provides benchmark cases developed during the Ph.D. thesis:
 
-**“Title of Your Thesis”**  
+**“Multiphysics modeling of crack propagation and healing in a thermo-elastic medium: application to nuclear fuel behavior”**  
 
 It focuses on **thermo-mechanical crack propagation and healing** using **cohesive zone models implemented in Abaqus**. The goal is to provide tools enabling reproducible simulations of damage–healing cycles in cohesive interfaces.
 
