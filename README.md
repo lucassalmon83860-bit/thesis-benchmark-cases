@@ -12,8 +12,8 @@ It focuses on **thermo-mechanical crack propagation and healing** using **cohesi
 
 ## Content
 
-- Automated procedures for inserting cohesive zones
 - Abaqus input files for benchmark cases with associated UMAT subroutines (Fortran 90) implementing thermo-mechanical cohesive laws
+- Automated procedures for inserting cohesive zones
 
 
 ## Benchmarks
